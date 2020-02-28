@@ -1,0 +1,11 @@
+@import '@material/elevation/mdc-elevation';
+@import '@keeer/material-components-vue/components/text-field/styles';
+
+.colorpicker__swatch-color {
+  transition: mdc-elevation-transition-value();
+}
+
+.colorpicker__swatch-color:hover,
+.colorpicker__swatch-color:focus {
+  @include mdc-elevation(2);
+}
