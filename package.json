@@ -24,11 +24,9 @@
   },
   "homepage": "https://github.com/KEEER/color-picker#readme",
   "dependencies": {
-    "core-js": "^3.6.4",
-    "vue": "^2.6.11"
+    "@keeer/material-components-vue": "^1.2.0-keeer1"
   },
   "devDependencies": {
-    "@keeer/material-components-vue": "^1.2.0-keeer1",
     "@vue/cli-plugin-babel": "~4.2.0",
     "@vue/cli-plugin-eslint": "~4.2.0",
     "@vue/cli-service": "~4.2.0",
