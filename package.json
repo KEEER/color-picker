@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/KEEER/color-picker#readme",
   "dependencies": {
-    "@keeer/material-components-vue": "^1.2.0-keeer1"
+    "@keeer/material-components-vue": "^1.2.0-keeer1",
+    "tinycolor2": "^1.4.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
