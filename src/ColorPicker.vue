@@ -121,7 +121,7 @@ export default {
     }
   },
   props: {
-    value: Number,
+    value: String,
   },
   methods: {
     select (i) {
